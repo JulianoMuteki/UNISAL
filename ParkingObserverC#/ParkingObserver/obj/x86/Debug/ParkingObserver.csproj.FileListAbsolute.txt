@@ -1,0 +1,5 @@
+C:\Projetos\ParkingObserver\ParkingObserver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ParkingObserver\ParkingObserver\bin\Debug\ParkingObserver.exe
+C:\Projetos\ParkingObserver\ParkingObserver\bin\Debug\ParkingObserver.pdb
+C:\Projetos\ParkingObserver\ParkingObserver\obj\x86\Debug\ParkingObserver.exe
+C:\Projetos\ParkingObserver\ParkingObserver\obj\x86\Debug\ParkingObserver.pdb
