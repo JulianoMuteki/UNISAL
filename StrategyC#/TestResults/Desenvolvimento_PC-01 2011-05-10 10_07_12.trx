@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="02c63d2b-ca93-45a6-8950-6a6372c57509" name="Desenvolvimento@PC-01 2011-05-10 10:07:12" runUser="PC-01\Desenvolvimento" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2de01068-1f57-4bd2-9a6b-0c6273408b55">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Desenvolvimento_PC-01 2011-05-10 10_07_12">
+      <DeploymentItem filename="D:\Pós juliano\Strategy\Strategy\bin\Debug\Strategy.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-05-10T10:07:12.6650919-03:00" queuing="2011-05-10T10:07:14.9222210-03:00" start="2011-05-10T10:07:15.0212266-03:00" finish="2011-05-10T10:07:23.0126837-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC-01" outcome="Error" timestamp="2011-05-10T10:07:23.0096835-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\pós juliano\strategy\teststrategy\bin\debug\teststrategy.dll" id="fe5c1ba6-a21a-a3e9-dcfe-34d1876b1552">
+      <Execution id="9081035e-cc80-4139-be6e-77b727ca26a2" />
+      <TestMethod codeBase="D:/Pós juliano/Strategy/TestStrategy/bin/Debug/TestStrategy.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestStrategy.UnitTest1, TestStrategy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fe5c1ba6-a21a-a3e9-dcfe-34d1876b1552" executionId="9081035e-cc80-4139-be6e-77b727ca26a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9081035e-cc80-4139-be6e-77b727ca26a2" testId="fe5c1ba6-a21a-a3e9-dcfe-34d1876b1552" testName="TestMethod1" computerName="PC-01" duration="00:00:07.9384540" startTime="2011-05-10T10:07:15.0742297-03:00" endTime="2011-05-10T10:07:23.0126837-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9081035e-cc80-4139-be6e-77b727ca26a2">
+    </UnitTestResult>
+  </Results>
+</TestRun>
