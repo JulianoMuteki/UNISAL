@@ -1,0 +1,8 @@
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\bin\Debug\Composite.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\bin\Debug\Composite.pdb
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\obj\x86\Debug\Composite.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\obj\x86\Debug\Composite.pdb
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\bin\Debug\CompositeElement.cs
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\bin\Debug\DrawingElement.cs
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Composite\bin\Debug\PrimitiveElement.cs

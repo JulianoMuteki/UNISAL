@@ -1,0 +1,5 @@
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Strategy\obj\x86\Debug\Strategy.pdb

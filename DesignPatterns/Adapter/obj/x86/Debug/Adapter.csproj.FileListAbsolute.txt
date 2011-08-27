@@ -1,0 +1,8 @@
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\obj\x86\Debug\Adapter.pdb
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\bin\Debug\IPadraoNBR.cs
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\bin\Debug\PlugAmericano.cs
+C:\Users\Windows 7\Documents\Pós Graduação\Programação OO II - Eder\DesignPatterns\Adapter\bin\Debug\TomadaNBR.cs
