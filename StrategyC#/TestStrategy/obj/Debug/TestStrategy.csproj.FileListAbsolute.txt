@@ -1,7 +1,0 @@
-D:\Pós juliano\Strategy\TestStrategy\bin\Debug\TestStrategy.dll
-D:\Pós juliano\Strategy\TestStrategy\bin\Debug\TestStrategy.pdb
-D:\Pós juliano\Strategy\TestStrategy\obj\Debug\ResolveAssemblyReference.cache
-D:\Pós juliano\Strategy\TestStrategy\obj\Debug\TestStrategy.dll
-D:\Pós juliano\Strategy\TestStrategy\obj\Debug\TestStrategy.pdb
-D:\Pós juliano\Strategy\TestStrategy\bin\Debug\Strategy.exe
-D:\Pós juliano\Strategy\TestStrategy\bin\Debug\Strategy.pdb

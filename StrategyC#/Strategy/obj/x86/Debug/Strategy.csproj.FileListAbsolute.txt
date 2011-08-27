@@ -1,5 +1,0 @@
-D:\Pós juliano\Strategy\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Pós juliano\Strategy\Strategy\bin\Debug\Strategy.exe
-D:\Pós juliano\Strategy\Strategy\bin\Debug\Strategy.pdb
-D:\Pós juliano\Strategy\Strategy\obj\x86\Debug\Strategy.exe
-D:\Pós juliano\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
